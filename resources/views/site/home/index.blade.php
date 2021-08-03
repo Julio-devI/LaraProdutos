@@ -63,7 +63,7 @@
                 <h2 class="title-large">Alter, gratis particulas mechanice visum de albus, primus adelphis.</h2>
                 <p>Bursas congregabo! Vae. Orexiss tolerare in antverpia! Neuter, secundus absolutios solite transferre
                     de altus, gratis elevatus.</p>
-                <a href="blog.php" role="button">Fraticinida, humani</a>
+                <a href="#" role="button">Fraticinida, humani</a>
             </div>
 
             <article class="card__post">
